@@ -36,4 +36,5 @@ class Sample1{
     System.out.println("入出力エラーです．");
   }
   }
+  pw.close();
 }
